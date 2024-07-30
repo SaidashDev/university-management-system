@@ -1,0 +1,19 @@
+
+]
+java:S1192&"GDefine a constant instead of duplicating this literal "rollno" 3 times.(’ó±Â
+b
+java:S1192"GDefine a constant instead of duplicating this literal "serif" 15 times.(Çš¡Ñÿÿÿÿÿ
+k	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ïìËùÿÿÿÿ
+k	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è«ú®üÿÿÿÿ
+k	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂöĞ¾ûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è²á
+l	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛíöÆüÿÿÿÿ
+l	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é…¨Ûûÿÿÿÿ
+g	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°åî’
+?
+java:S1604²"(Make this anonymous inner class a lambda(´„µ®
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ïÂ¢ˆÿÿÿÿÿ
+a
+java:S1659"FDeclare "textPhone" and all following declarations on a separate line.(àÿŸ¿ûÿÿÿÿ
+:
+java:S1659"$Declare "cancel" on a separate line.(¡ËÌ
